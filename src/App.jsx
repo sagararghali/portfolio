@@ -1,7 +1,8 @@
 import React from 'react';
 
+
 const App = () => {
-  return (
+  return (<>
     <div className="min-h-screen bg-gray-100 flex flex-col items-center">
       <header className="w-full bg-blue-600 p-4 text-white text-center text-3xl">
 Sagar Arghali Magar      </header>
@@ -38,6 +39,12 @@ Sagar Arghali Magar      </header>
         &copy; 2024 My Portfolio
       </footer>
     </div>
+    
+    
+    
+
+
+    </>
   );
 };
 
