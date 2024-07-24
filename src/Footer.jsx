@@ -2,11 +2,11 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-blue-600 text-white p-8 mt-8">
-      <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 ">
+    <footer className="bg-blue-600 text-white p-8 mt-8 gap-y-5 grid">
+      <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-x-20 ">
       <div>
           <h2 className="text-xl font-bold mb-2">About Me</h2>
-          <p>I am a beginner web developer with 2 months of work experience in React JS in a company.</p>
+          <p>I am a web developer with 5 months of work experience in React JS in a company.</p>
         </div>
         <div>
           <h2 className="text-xl font-bold mb-2">Contact Me</h2>
