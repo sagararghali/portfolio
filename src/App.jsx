@@ -65,5 +65,6 @@ Sagar Arghali Magar
     <Footer/>
     </>
   );
+  
 };
 export default App;
