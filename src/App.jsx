@@ -35,14 +35,12 @@ Sagar Arghali Magar
           <h3 className=' ml-4 text-2xl font-bold p-3 text-green-400'> Frontend Developer</h3>
 <p className='text-xl text-white'>Hello, my name is Sagar Arghali Magar. Throughout my Front-end journey, I have developed several simple projects which i have mentioned below that have helped me gain practical experience and a deeper understanding of web development. I am excited to continue learning and growing as a developer.</p>
 </div>
-
 <div className=' pt-5 flex gap-x-8 '>
       <button className=' rounded w-20 h-10 bg-green-400 hover:bg-green-600 hover:font-bold'>Hire Me</button>
       <button className=' border-2 border-green-400 rounded w-20 h-10 bg-green-700 hover:bg-green-400 hover:font-bold'>Let's Talk</button>
 </div>
 <div>
-      <h2 className="text-3xl font-bold p-3  underline text-white">My Work Experience</h2>
-      
+      <h2 className="text-3xl font-bold p-3  underline text-white">My Work Experience</h2>      
           <h3 className=' ml-4 text-2xl font-bold p-3 text-green-400 text-xl font-bold'> Web Developer</h3>
           <p className="text-muted-foreground text-white font-bold">-BM Khatri cons..| 2024/02/10 - Present</p>
 <p className='text-lg text-white'>Certainly, I have been working on BM Khatri Consultant Pvt.Ltd. Initally I was joined as an intern. I was hired as a full-time Employee on 10-feb 2024.  </p>
@@ -53,11 +51,10 @@ Sagar Arghali Magar
 <li>Ensuring responsive design for mobile and desktop platforms.</li>
 </div>
 </div> 
-        </section>
+   </section>
         <div className="p-3 m-20 mb-0 mt-0 bg-white rounded-md shadow-2xl ">
         <img src={logo} alt="Description of my image" className="rounded-md " />
       </div>
-
         </div>
      <Projects/>
       </main>
@@ -66,7 +63,6 @@ Sagar Arghali Magar
     <Footer/>
     </>
   );
-  
 };
 export default App;
 
