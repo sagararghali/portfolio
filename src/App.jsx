@@ -57,6 +57,7 @@ Sagar Arghali Magar
         <div className="p-3 m-20 mb-0 mt-0 bg-white rounded-md shadow-2xl ">
         <img src={logo} alt="Description of my image" className="rounded-md " />
       </div>
+
         </div>
      <Projects/>
       </main>
